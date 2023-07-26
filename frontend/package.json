@@ -9,6 +9,8 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.2.2",
+    "browserslist": "^4.21.9",
+    "caniuse-lite": "^1.0.30001517",
     "countries-list": "^2.6.1",
     "mdbreact": "^5.2.0",
     "rc-slider": "^10.1.0",
